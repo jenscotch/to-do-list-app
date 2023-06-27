@@ -1,6 +1,6 @@
 # to-do-list-app
 
-## A simple JavaScript To-Do App
+## A Simple JavaScript To-Do App
 <img width="1281" alt="image" src="https://github.com/jenscotch/to-do-list-app/assets/129793770/87ecb275-7822-4576-8a8c-ba9897862b2c">
 
 ## Make a list
